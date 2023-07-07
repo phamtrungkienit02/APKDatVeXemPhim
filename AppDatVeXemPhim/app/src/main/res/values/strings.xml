@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppDatVeXemPhim</string>
+    <string name="userName">Tên đăng nhập</string>
+    <string name="passName">Mật khẩu</string>
 </resources>

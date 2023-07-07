@@ -29,8 +29,8 @@
             android:layout_marginRight="15dp"
             android:ems="20"
             android:inputType="text"
-            android:text="Tên đăng nhập"
-            android:textSize="20dp" />
+            android:hint="@string/userName"
+            android:textSize="@dimen/size20dp" />
 
 
         <EditText
@@ -41,8 +41,8 @@
             android:layout_marginRight="15dp"
             android:ems="10"
             android:inputType="textPassword"
-            android:text="Mật khẩu"
-            android:textSize="20dp" />
+            android:hint="@string/passName"
+            android:textSize="@dimen/size20dp" />
 
         <TextView
             android:id="@+id/txtQuenMK"
@@ -57,7 +57,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
-            android:gravity="center_horizontal">
+            android:gravity="center|top">
 
 
             <Button
