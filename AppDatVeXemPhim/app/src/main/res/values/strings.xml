@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AppDatVeXemPhim</string>
+    <string name="userName">Tên đăng nhập</string>
+    <string name="passName">Mật khẩu</string>
+    <string name="yourName">Tên của bạn</string>
+    <string name="number">Số điện thoại</string>
+    <string name="exit">Thoát</string>
+    <string name="confirm">Xác nhận</string>
+
+
 </resources>
